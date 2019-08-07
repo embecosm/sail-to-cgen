@@ -2,6 +2,7 @@ The Sail ISA specification language
 ===================================
 
 This is a copy of the SAIL repository with changes to cgen-backend.ml
+Checkout f94b8e438f25400b9ad188f05386fd54c6e76b41 for sail-riscv/
 
 Overview
 ========
